@@ -54,7 +54,7 @@ end
 b1=[1 3 10 50 100];
 for i=1:5
     w=V(:,784:-1:784-b1(i)+1);
-    z=data(2,:)_m*w;
+    z=data_m(2,:)*w;
     x1=z*w'+mean_data;
     x2=reshape(x1,[28,28]);
     x2=mat2gray(x2);
