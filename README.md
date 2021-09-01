@@ -1,2 +1,2 @@
 # Pattern-Recognition
-Some small projects of Pattern Recognition /ECSE-6610
+Final projects of Pattern Recognition /ECSE-6610
